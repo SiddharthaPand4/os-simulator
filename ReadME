@@ -1,0 +1,4 @@
+update the configurations of the simulator in `simulator_config.py`
+Run the project by calling `python simulator.py`
+
+Make sure you have python installed in your system
